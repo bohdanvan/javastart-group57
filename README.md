@@ -9,6 +9,8 @@ Prog.kiev.ua. Java Start. Группа 57
 
 [Java Start. Богдан. Группа 57. Лекции 5-6 (15.07.2017)](https://prog.kiev.ua/forum/index.php/topic,3029.0.html)
 
+[Java Start. Богдан. Группа 57. Лекции 7-8 (29.07.2017)](https://prog.kiev.ua/forum/index.php/topic,3046.0.html)
+
 ## Видео лекций предыдущих групп
 
 [Видеозапись лекций](https://mega.nz/#F!SRclnQQT)
