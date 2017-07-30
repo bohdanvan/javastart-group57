@@ -19,4 +19,4 @@ Prog.kiev.ua. Java Start. Группа 57
 
 ## Примеры кода
 
-https://github.com/bohdanvan/com.bvan.javastart
+https://github.com/bohdanvan/javastart
